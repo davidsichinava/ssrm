@@ -1,0 +1,30 @@
+---
+title: "პრეზენტაციები და დასწრება"
+output: html_document
+
+---
+
+დასწრების ფაილი იხილეთ [ამ ბმულზე](https://docs.google.com/spreadsheets/d/1yXrnaNJ_eXDJ_ZiDa0kU0Dpqdr5HMS-zFBcm0CKD8pg/edit?usp=sharing). აქვე წარმოდგენილია დავალებების გამოგზავნის შესახებ ინფორმაცია და თქვენი შეფასებები.
+
+[__პირველი შეხვედრა__](https://davidsichinava.github.io/ssrm/pres/pres1/meeting_1.html)
+
+[__მეორე შეხვედრა__](https://davidsichinava.github.io/ssrm/pres/pres2/meeting_2.html)
+
+[__მესამე შეხვედრა__](https://davidsichinava.github.io/ssrm/pres/pres3/meeting_3.html)
+
+[__მეოთხე შეხვედრა__](https://davidsichinava.github.io/ssrm/pres/pres4/meeting_4.html)
+
+[__მეხუთე შეხვედრა__](https://davidsichinava.github.io/ssrm/pres/pres6/meeting_6.html)
+
+__შუალედური__
+
+[__მეექვსე შეხვედრა__](https://davidsichinava.github.io/ssrm/pres/pres7/meeting_7.html)
+
+[__მეშვიდე შეხვედრა__](https://davidsichinava.github.io/ssrm/pres/pres8/meeting_8.html)
+
+[__მერვე შეხვედრა__](https://davidsichinava.github.io/ssrm/pres/pres9/meeting_9.html)
+
+[__მეცხრე შეხვედრა__](https://davidsichinava.github.io/ssrm/pres/pres10/meeting_10.html)
+
+[__მეათე შეხვედრა__](https://davidsichinava.github.io/ssrm/pres/pres11/meeting_12.html)
+

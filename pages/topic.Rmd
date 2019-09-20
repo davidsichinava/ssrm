@@ -1,0 +1,141 @@
+---
+title: "თემები"
+author: "დავით სიჭინავა"
+output: html_document
+
+---
+
+### შეხვედრა 1: კვლევის მნიშვნელობა სოციალურ მეცნიერებებში
+
+#### ![](ico/teacher.png) ლექცია:
+
+
+![](ico/open-book.png) საკითხავი მასალა:
+
+
+* ნაჩმიასი და ნაჩმიასი, გვ. 30-41
+* [ლიტლი, გვ. 4-12](https://www.dropbox.com/s/xohz2356bwbun0r/%E1%83%9A%E1%83%98%E1%83%A2%E1%83%9A%E1%83%98_%E1%83%A8%E1%83%94%E1%83%A1%E1%83%90%E1%83%95%E1%83%90%E1%83%9A%E1%83%98.pdf?dl=0)
+* [პრეზენტაცია](https://davidsichinava.github.io/ssrm/pres/pres1/meeting_1.html)
+
+### შეხვედრა 2: თვისებრივი და რაოდენობრივი მეთოდები
+
+![](ico/open-book.png) საკითხავი მასალა:
+
+
+* ნაჩმიასი და ნაჩმიასი, გვ. 393-427
+* [პრეზენტაცია](https://davidsichinava.github.io/ssrm/pres/pres2/meeting_2.html)
+
+![](ico/book.png) დავალება:
+
+
+### შეხვედრა 3: სოციალურ მეცნიერებათა კვლევის ეთიკა
+
+
+![](ico/open-book.png) საკითხავი მასალა:
+
+* ნაჩმიასი და ნაჩმიასი, გვ. 121-141
+* [პრეზენტაცია](https://davidsichinava.github.io/ssrm/pres/pres3/meeting_3.html)
+
+### შეხვედრა 4: კვლევის გეგმა, კონცეპტუალიზაცია და ოპერაციონალიზაცია
+
+![](ico/open-book.png) საკითხავი მასალა:
+
+* ნაჩმიასი და ნაჩმიასი, გვ. 42-46
+* ნაჩმიასი და ნაჩმიასი, გვ. 55-89
+* [პრეზენტაცია](https://davidsichinava.github.io/ssrm/pres/pres4/meeting_4.html)
+
+![](ico/flask-outline.png) სემინარი:
+
+
+![](ico/book.png) დავალება:
+
+
+
+### შეხვედრა 5: გამოკითხვა
+
+![](ico/open-book.png) საკითხავი მასალა:
+
+* ნაჩმიასი და ნაჩმიასი, გვ. 319-353
+* [პრეზენტაცია](https://davidsichinava.github.io/ssrm/pres/pres5/meeting_5.html)
+
+### შეხვედრა 6: ექსპერიმენტული დიზაინი
+
+![](ico/open-book.png) საკითხავი მასალა:
+
+* ნაჩმიასი და ნაჩმიასი, გვ. 151-222
+* [პრეზენტაცია](https://davidsichinava.github.io/ssrm/pres/pres6/meeting_6.html)
+
+
+### შეხვედრა 7: შუალედური გამოცდა
+
+
+### შეხვედრა 8: გიორგობა
+
+### შეხვედრა 9: კითხვარი და შერჩევა
+
+
+![](ico/open-book.png) საკითხავი მასალა:
+
+* ნაჩმიასი და ნაჩმიასი, გვ. 257-293; გვ. 355-393
+* [პრეზენტაცია](https://davidsichinava.github.io/ssrm/pres/pres8/meeting_8.html)
+
+
+### შეხვედრა 10: გაზომვა და სკალები
+
+![](ico/open-book.png) საკითხავი მასალა:
+
+
+* ნაჩმიასი და ნაჩმიასი, გვ. 225-257; გვ. 625-645
+* [პრეზენტაცია](https://davidsichinava.github.io/ssrm/pres/pres9/meeting_9.html)
+
+
+![](ico/book.png) დავალება:
+
+### შეხვედრა 11: მონაცემთა დამუშავება და ანალიზი
+
+
+![](ico/open-book.png) საკითხავი მასალა:
+
+* წულაძე, გვ. 53-64
+* [პრეზენტაცია](https://davidsichinava.github.io/ssrm/pres/pres10/meeting_10.html)
+
+![](ico/book.png) დავალება: არგუმენტირებული ბლოგ-პოსტი
+
+
+### შეხვედრა 12: სიღრმისეული ინტერვიუ
+
+![](ico/open-book.png) საკითხავი მასალა:
+
+
+* ზურაბიშვილი, გვ. 16-24
+* [პრეზენტაცია](https://davidsichinava.github.io/ssrm/pres/pres12/meeting_12.html)
+
+### შეხვედრა 13: ფოკუსჯგუფი, დაკვირვება
+
+
+![](ico/open-book.png) საკითხავი მასალა:
+
+
+* ზურაბიშვილი, გვ. 27-36 (ფოკუსჯგუფი)
+* ზურაბიშვილი, გვ. 48-61 (დაკვირვება)
+
+* [პრეზენტაცია](https://davidsichinava.github.io/ssrm/pres/pres13/meeting_13.html)
+
+
+### შეხვედრა 14: ისტორიული და დოკუმენტების ანალიზი, კონტენტ-ანალიზი
+
+
+![](ico/open-book.png) საკითხავი მასალა:
+
+* ნაჩმიასი და ნაჩმიასი, გვ. 427-432
+* კოენი და სხვ., გვ. 461-469
+
+
+* კოენი და სხვ., გვ. 474-476
+* ნაჩმიასი და ნაჩმიასი, გვ. 455-462
+
+* [პრეზენტაცია](https://davidsichinava.github.io/ssrm/pres/pres14/meeting_14.html)
+
+
+
+Icon source: http://www.flaticons.com
